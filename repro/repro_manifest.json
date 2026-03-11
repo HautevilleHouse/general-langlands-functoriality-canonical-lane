@@ -1,0 +1,109 @@
+{
+  "schema_version": "2026-03-05",
+  "generated_utc": "2026-03-11T23:36:02Z",
+  "lane": "manifold_constrained",
+  "baseline_certificate_path": "repro/certificate_baseline.json",
+  "runtime_certificate_path": "repro/certificate_runtime.json",
+  "files": [
+    {
+      "path": "CITATION.cff",
+      "sha256": "28408aae5b4b591202eb8f893d7db14a1f359050e1d890c8829977ed31ba50eb"
+    },
+    {
+      "path": "README.md",
+      "sha256": "adc8828d9359d1a0cd9bddd358e28764d3886f55a397ef520cc00757c5f32e61"
+    },
+    {
+      "path": "artifacts/constants_extracted.json",
+      "sha256": "57ce45b1631fe5b82e733aaf2daa85ddb454959e880f85970cd8feb803800f54"
+    },
+    {
+      "path": "artifacts/constants_extraction_inputs.json",
+      "sha256": "20c11b42c1adf662266ddba2e75615cf29a87178e399b7d302c21bcf209c4172"
+    },
+    {
+      "path": "artifacts/constants_registry.json",
+      "sha256": "85369a01f9a6b8e4e1f4b505273457e5b08691edd1a1db75d4581d72a70a1fcc"
+    },
+    {
+      "path": "artifacts/promotion_report.json",
+      "sha256": "fb9fbc43a419a80c3da0754565c022c4989526fed7bac59f163bb7d6d0def9bd"
+    },
+    {
+      "path": "artifacts/stitch_constants.json",
+      "sha256": "fe816957167da2ec5b65de62fb79003b3ac14dd4e729215a11925b475a2fe924"
+    },
+    {
+      "path": "notes/EG1_public.md",
+      "sha256": "1256dc37c4cf10b4f16572a144ec752a7903f4096049740035c89208a9b5df04"
+    },
+    {
+      "path": "notes/EG2_public.md",
+      "sha256": "0d1654036bcdab4596ffa991e30e0f071a03ba3bd52c9d19bf59248b5e09abd5"
+    },
+    {
+      "path": "notes/EG3_public.md",
+      "sha256": "46ccda25a7fe361c827d3bdf72a24d62e907410df9bfb0db305a745017a4e0ca"
+    },
+    {
+      "path": "notes/EG4_public.md",
+      "sha256": "8da00c00d3bbaa6c76ec2ce2f328d6eb4e1eb59177685796cd30290e8255c504"
+    },
+    {
+      "path": "notes/IDENTIFICATION_BRIDGE.md",
+      "sha256": "6938da9388a0b5fa679fd590db7b78a1fd98961d24da77b1aca4d1667b44e6f6"
+    },
+    {
+      "path": "paper/CANONICAL_ROUTING_INDEX.md",
+      "sha256": "5b9d034d8b5006c9b38abce068aa39ce47d785ecb32ec42a779b611571327b30"
+    },
+    {
+      "path": "paper/EXTRACTION_SPEC.md",
+      "sha256": "b221ff784ec3c69bf969b8263b11fa3ef884a0efe65870a4fe8dece7cc9135b2"
+    },
+    {
+      "path": "paper/GENERAL_LANGLANDS_FUNCTORIALITY_PREPRINT.md",
+      "sha256": "b79e4327bbaaed441c185b64755c4e77ff415664fdcef51608c6602425005994"
+    },
+    {
+      "path": "repro/REPRO_PACK.md",
+      "sha256": "a7aa422e03e0cdfa2fcf854207e41321cf6f639e4fb2def7d94c9ddc4a76e4a3"
+    },
+    {
+      "path": "repro/THIRD_PARTY_RERUN_PROTOCOL.md",
+      "sha256": "16be99cee6ff5de117c1fa91563fccca9437da5e9e43f873021382277c4b632c"
+    },
+    {
+      "path": "repro/certificate_baseline.json",
+      "sha256": "190e792f64bdc1d9c856f19c7afc55de4ff55809346aa25e1f4ce31b889b5b03"
+    },
+    {
+      "path": "repro/run_repro.sh",
+      "sha256": "5e72465dd87c4a58b3da4567079d081d9d82aab92e428c08cc7df81193b0c3c0"
+    },
+    {
+      "path": "scripts/extract_constants.py",
+      "sha256": "61775512903af1abf2a430f74f06797352ca655833bd69fe66b2d89b8c261b6e"
+    },
+    {
+      "path": "scripts/promote_constants.py",
+      "sha256": "c13fe0f68b0737a319c9feff0e196108b9a49d8acc5ad817f8ae62597c8bc13c"
+    },
+    {
+      "path": "scripts/release_gate.py",
+      "sha256": "5c9760aeddbfa0e4b5a9447e1bda670004391c19470f9b1cf8897bf154f667b8"
+    },
+    {
+      "path": "scripts/update_manifest.py",
+      "sha256": "6cee83954c38d792f86564334a5e93750a9842afe569fb4685a3f47def392352"
+    },
+    {
+      "path": "scripts/glf_closure_guard.py",
+      "sha256": "da8e8e1e90d67184c793dc15bcade552675b3005f15f46f3fb60b1d74b0749d5"
+    },
+    {
+      "path": "scripts/README.md",
+      "sha256": "ccdef5638e20b220539963917e7c2b847042837c78f5f18bef659d14caf5d82c"
+    }
+  ]
+}

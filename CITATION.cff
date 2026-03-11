@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "General Langlands Functoriality via Transfer-Packet Persistence"
+message: "If you use this workspace, cite the manuscript and theorem notes."
+type: software
+authors:
+  - name: "HautevilleHouse"
+date-released: 2026-03-11
+repository-code: "https://github.com/HautevilleHouse/general-langlands-functoriality-canonical-lane"
+url: "https://github.com/HautevilleHouse/general-langlands-functoriality-canonical-lane"
+keywords:
+  - langlands-program
+  - functoriality
+  - automorphic-representations
+  - galois-representations
+  - trace-formula
+  - mathematical-proof
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "General Langlands Functoriality via Transfer-Packet Persistence"
+  authors:
+    - name: "HautevilleHouse"
+  date: 2026-03-11
